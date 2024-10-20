@@ -1,0 +1,27 @@
+/* .mulish-<uniquifier> {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+body {
+  background-color: black;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: aliceblue;
+  
+}
+.heading {
+    border-radius: 2px;
+    padding: 10px;
+    background-color: gray;
+  color: yellow;
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+}
